@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MinimalDiffChecker/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/MinimalDiffChecker/static/js/main.e2d53998.chunk.js",
+    "main.js.map": "/MinimalDiffChecker/static/js/main.e2d53998.chunk.js.map",
+    "runtime-main.js": "/MinimalDiffChecker/static/js/runtime-main.576e0d97.js",
+    "runtime-main.js.map": "/MinimalDiffChecker/static/js/runtime-main.576e0d97.js.map",
+    "static/js/2.13de753f.chunk.js": "/MinimalDiffChecker/static/js/2.13de753f.chunk.js",
+    "static/js/2.13de753f.chunk.js.map": "/MinimalDiffChecker/static/js/2.13de753f.chunk.js.map",
+    "static/js/3.12a18f63.chunk.js": "/MinimalDiffChecker/static/js/3.12a18f63.chunk.js",
+    "static/js/3.12a18f63.chunk.js.map": "/MinimalDiffChecker/static/js/3.12a18f63.chunk.js.map",
+    "index.html": "/MinimalDiffChecker/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/MinimalDiffChecker/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.13de753f.chunk.js.LICENSE.txt": "/MinimalDiffChecker/static/js/2.13de753f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MinimalDiffChecker/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.576e0d97.js",
+    "static/js/2.13de753f.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e2d53998.chunk.js"
+  ]
+}
